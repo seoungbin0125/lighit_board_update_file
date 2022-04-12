@@ -1,2 +1,2 @@
-{"file_name":lighitboard_update_file,
+{"file_name":lighitboard_update_file.bin,
  "version":"0.3.0"}

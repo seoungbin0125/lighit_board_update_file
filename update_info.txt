@@ -1,0 +1,2 @@
+{"file_name":lighitboard_update_file,
+ "version":"0.3.0"}
